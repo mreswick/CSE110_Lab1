@@ -1,3 +1,3 @@
 Misha Reswick's User Page
 
-My favorite programming language is C++. I am still learning more about it, but it is fast and powerful.
+My favorite programming language is C++. I am still learning more about it, but it is fast and powerful. There is also much functionality to it.
