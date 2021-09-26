@@ -59,5 +59,4 @@ Below are a couple experimental sample photographs I took and edited in Adobe Ph
  2. Water Glass, Conceptual:
 ![Vis60 Image #2](images/reswick_4.jpg)
 
-
   
