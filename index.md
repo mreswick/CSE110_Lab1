@@ -49,7 +49,7 @@ In addition, when I am not coding or tackling algorithmic challenges, I may be f
 ### Photos and Excerpts from Projects:
  - [ECE16 Video Game Controller](images/Misha_ECE16_FinalChallenge_VideoGameController_1.JPG)
  - *chessforall.space sample images*:
-   - ![chessforall.space homepage](chessforall_space_homepage_1.JPG)
+    - ![chessforall.space homepage](images/chessforall_space_homepage_1.JPG)
     - ![chessforall.space castling](images/chessforall_space_castling_1.JPG)
 
 ### Photography Photo Sample:
