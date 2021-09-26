@@ -5,7 +5,7 @@
 
 I am currently a Computer Science (B.S.) major at the *University of California - San Diego (UCSD)*, with interests in seeing how the physical and virtual worlds interact.
 
-In addition, when I am not coding or tackling algorithmic challenges, I may be found with my camera ([see below](#photography-assignment-photo-sample)), tutoring students in math, science, and coding, or eagerly reading of and experimenting with the next technology I wish to use.
+In addition, when I am not coding or tackling algorithmic challenges, I may be found with my camera ([see below](#photography-photo-sample)), tutoring students in math, science, and coding, or eagerly reading of and experimenting with the next technology I wish to use.
 
 **Inspirations**:
 
